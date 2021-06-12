@@ -11,7 +11,7 @@ setuptools.setup(
     description="Detect profanity in a sentence.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/xditya/ProfanityDetector",
+    url="https://github.com/wayfarer-ezyro/ProfanityDetector",
     license="GNU AFFERO GENERAL PUBLIC LICENSE (v3)",
     packages=setuptools.find_packages(),
     install_requires=["requests"],
